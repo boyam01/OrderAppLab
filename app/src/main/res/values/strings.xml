@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OrderAppLab4toLab6</string>
+    <string name="btn_submit">送出訂單</string>
+    <string name="hint_food">請輸入餐點</string>
+    <string name="hint_qty">請輸入數量</string>
+</resources>
